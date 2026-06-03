@@ -3,3 +3,6 @@ function sayHi(name) {
 }
 
 module.exports = sayHi
+
+
+#comment to src/index.js
